@@ -19,7 +19,7 @@ He hecho proyectos 💻 usando las siguientes tecnologías:
 | ga | alias of command git add |
 | cl | alias of command clear |
 
-Usar
+Para visualizar
 ```sh
 npx @11ty/eleventy --serve
 ```
